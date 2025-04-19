@@ -1,5 +1,5 @@
 # Vending-Machine
-Designed and simulated afully functional Verilog-based vending machine and tested on **EDA Playground**, implementing a **Finite State Machine (FSM)** for coin detection and handel change dispending logic, ensuring accurate operation across all input scenarios.
+Designed and simulated afully functional Verilog-based vending machine and tested on **EDA Playground**, implementing a **Finite State Machine (FSM)** for coin detection and handle change dispending logic, ensuring accurate operation across all input scenarios.
 
 ---
 ## 🔧 Features
